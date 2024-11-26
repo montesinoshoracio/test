@@ -87,6 +87,7 @@
   "credits.banner.credit_short_offer.description.PY_UY": "Devolvelo en **2, 3 o 4 semanas**",
   "credits.banner.rates_communication_variation1": "Tasa de interés del {rate}%",
   "credits.banner.rates_communication_variation2": "Mejoramos las tasas ",
+  "credits.banner.rates_communication_detail": "Tasa",
   "credits.banner.rates_communication_detail.PY_AR": "TNA",
   "credits.banner.rates_communication_detail.PY_CL": "CAE",
   "credits.banner.rates_communication_detail.PY_EC": "TEA",
