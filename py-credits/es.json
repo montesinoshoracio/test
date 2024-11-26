@@ -3,6 +3,8 @@
   "account_status.tab.title": "Estado de cuenta",
   "contract.edcd.tab.title": "Contrato",
   "credits.tab.title": "Créditos",
+  "credits.tab.title.PY_AR": "Créditos AR",
+  "credits.tab.title.PY_PE": "Créditos PE",
   "account_status.edcd.tab.title": "Estado de Cuenta",
   "account_status.edcd.drawer.contract.title": "Contrato",
   "account_status.edcd.drawer.contract.description": "Lista de contratos",
